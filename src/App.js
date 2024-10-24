@@ -4,8 +4,6 @@ import Login from './pages/Login';
 import Register from './pages/Register';
 import Profile from './pages/Profile';
 
-// Mock user database - replace with actual API calls
-
 const App = () => {
   return (
     <Router>
